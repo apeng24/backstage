@@ -1,5 +1,14 @@
 # @backstage/integration
 
+## 1.4.3-next.0
+
+### Patch Changes
+
+- 52b0022dab7: Updated dependency `msw` to `^1.0.0`.
+- Updated dependencies
+  - @backstage/config@1.0.6
+  - @backstage/errors@1.1.4
+
 ## 1.4.2
 
 ### Patch Changes

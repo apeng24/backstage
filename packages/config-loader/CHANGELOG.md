@@ -1,5 +1,16 @@
 # @backstage/config-loader
 
+## 1.1.9-next.0
+
+### Patch Changes
+
+- 52b0022dab7: Updated dependency `msw` to `^1.0.0`.
+- Updated dependencies
+  - @backstage/cli-common@0.1.11
+  - @backstage/config@1.0.6
+  - @backstage/errors@1.1.4
+  - @backstage/types@1.0.2
+
 ## 1.1.8
 
 ### Patch Changes
